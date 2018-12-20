@@ -16,14 +16,14 @@ body {
 .ScoreP1{
 	position: absolute;
 	right: 2vw;
-	top: 1vw;
+	top: 5vw;
 	font-size: 2vw;
 }
 
 .ScoreP2{
 	position: absolute;
 	left: 2vw;
-	top: 1vw;
+	top: 5vw;
 	font-size: 2vw;
 }
 
@@ -33,4 +33,19 @@ body {
 	top: 50%;
 	transform: translate(-50%, -50%);
 	font-size: 2vw;
+}
+
+.Footer {
+	width: 100%;
+	height: 50px;
+	background-color: black;
+}
+
+.Home {
+	position: absolute;
+	left: 50%;
+	top: 25px;
+	transform: translate(-50%,-50%);
+	font-size: 2vw;
+	text-decoration: none;
 }
