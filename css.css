@@ -1,0 +1,36 @@
+* {
+	margin: 0;
+	padding: 0;
+	color: white;
+	font-weight: bold;
+}
+
+canvas {
+	border: 1px solid black;
+}
+
+body {
+	overflow: hidden;
+}
+
+.ScoreP1{
+	position: absolute;
+	right: 2vw;
+	top: 1vw;
+	font-size: 2vw;
+}
+
+.ScoreP2{
+	position: absolute;
+	left: 2vw;
+	top: 1vw;
+	font-size: 2vw;
+}
+
+.Win {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	font-size: 2vw;
+}
