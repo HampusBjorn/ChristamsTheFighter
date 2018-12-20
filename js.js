@@ -13,7 +13,6 @@ var shootingspeed = 1000;
 var shootingspeed2 = 1000;
 var ammunition1 = 0;
 var ammunition2 = 0;
-alert("HomePage ---> copy: https://hampusbjorn.github.io");
 
 (function () {
     var requestAnimationFrame = window.requestAnimationFrame || window.mozRequestAnimationFrame || window.webkitRequestAnimationFrame || window.msRequestAnimationFrame;
